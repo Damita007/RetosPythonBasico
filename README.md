@@ -10,8 +10,8 @@ En este repositorio podemos encontrar ejercicios y retos para las practicas, sum
 A continuación se muestran los resultados de los diversos retos de las clases de Python:
 
 
-| Nivel        | Descripción                          | Ubicación |
-|--------------|:------------------------------------:|:---------:|
-|*Básico*      |**Suma de 2 números enteros**         |     Ir    |
-|*Básico*      |**Suma de los elementos de un array** |     Ir    |
-|*Intermedio*  |**Muestrame un animal!**              |     Ir    |
+| Nivel        | Descripción                          | Ubicación                  |
+|--------------|:------------------------------------:|:--------------------------:|
+|*Básico*      |**Suma de 2 números enteros**         |     Ir                     |
+|*Básico*      |**Suma de los elementos de un array** |     Ir                     |
+|*Intermedio*  |**Muestrame un animal!**              |     Ir [Archivo]/.Suma.md) |
