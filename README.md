@@ -14,4 +14,4 @@ A continuación se muestran los resultados de los diversos retos de las clases d
 |--------------|:------------------------------------:|:--------------------------:|
 |*Básico*      |**Suma de 2 números enteros**         |     Ir                     |
 |*Básico*      |**Suma de los elementos de un array** |     Ir                     |
-|*Intermedio*  |**Muestrame un animal!**              |     Ir [Archivo]/.Suma.md) |
+|*Intermedio*  |**Muestrame un animal!**              |     Ir [Archivo]./Suma.md) |
