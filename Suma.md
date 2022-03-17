@@ -9,8 +9,7 @@ Crea una función que pueda sumar 2 números enteros.
 
 Donde,
 
-**x es el primer número entero**
-**y es el segundo número entero**
+**x es el primer número entero**   ------ **y es el segundo número entero**
 
 ### Valor que regresa la suma de los números enteros de arriba:
 
