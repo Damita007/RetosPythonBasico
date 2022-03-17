@@ -27,8 +27,8 @@ La suma de los 2 números enteros x & y se calcula como 2+3=5
 
 Aquí el enlace publico: 
 
-[Aquí el enlace](https://colab.research.google.com/drive 1obkQKQIa8DyL7YVF54YZ34Xyep84TAIU#scrollTo=51_zDnUEVpWE).
+[Colab](https://colab.research.google.com/drive/1obkQKQIa8DyL7YVF54YZ34Xyep84TAIU#scrollTo=51_zDnUEVpWE).
 
-![Esta es una imagen](Colabsuma.png).
+![Esta es una imagen](IMAGEN/Colabsuma.png).
 
 Siguiendo este procedimiento se llego a realizar la suma solicitada.
