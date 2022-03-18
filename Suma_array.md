@@ -1,25 +1,26 @@
 #  ** Suma de un arreglo de números enteros **
-=============================================================
+===========================================================================
 
 Teniendo un arreglo de enteros encuentra el resultado de la suma de los elementos del arreglo.
 
 ### Reglas:
 
-1. 'ar[i]<= 1000 (El arreglo debe de ser menor a mil datos) 
-2. 'Tienes que crear la función que haga la suma'
+- 'ar[i]<= 1000 (El arreglo debe de ser menor a mil datos) 
+- 'Tienes que crear la función que haga la suma'
 
 
 ### Valor que regresa la suma de los números enteros de arriba:
 
-2. Prueba de entrada
+1. Prueba de entrada
 
 [1,2,3]
 
-3. Prueba de salida
+2. Prueba de salida
 
 6
 
-4. Explicación: 
+3. Explicación:  
+
 La suma de los 3 números enteros se calcula como 1 + 2 + 3 = 5
 
 **Se realizo el ejercicio en Colab**
