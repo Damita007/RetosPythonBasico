@@ -1,4 +1,4 @@
-#  ** Suma de un arreglo de números enteros **
+#  Suma de un arreglo de números enteros 
 ===========================================================================
 
 Teniendo un arreglo de enteros encuentra el resultado de la suma de los elementos del arreglo.
@@ -23,11 +23,11 @@ Teniendo un arreglo de enteros encuentra el resultado de la suma de los elemento
 
 La suma de los 3 números enteros se calcula como 1 + 2 + 3 = 5
 
-**Se realizo el ejercicio en Colab**
+### Se realizo el ejercicio en Colab
 
-Aquí el enlace publico: 
+### Aquí el enlace publico: 
 
-[Visit Colab!](https://colab.research.google.com/drive/1obkQKQIa8DyL7YVF54YZ34Xyep84TAIU#scrollTo=51_zDnUEVpWE).
+### [Visit Colab!](https://colab.research.google.com/drive/1obkQKQIa8DyL7YVF54YZ34Xyep84TAIU#scrollTo=51_zDnUEVpWE).
 
 ![Esta es una imagen](IMAGEN/Colabsumaarray.png).
 

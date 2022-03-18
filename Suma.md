@@ -1,4 +1,4 @@
-#  ** Suma de 2 números enteros **
+#  Suma de 2 números enteros 
 ======================================================
 
 Crea una función que pueda sumar 2 números enteros.
@@ -24,13 +24,14 @@ y = 3
 5
 
 4. Explicación: 
+
 La suma de los 2 números enteros x & y se calcula como 2 + 3 = 5
 
-**Se realizo el ejercicio en Colab**
+### Se realizo el ejercicio en Colab
 
-Aquí el enlace publico: 
+### Aquí el enlace publico: 
 
-[Visit Colab!](https://colab.research.google.com/drive/1obkQKQIa8DyL7YVF54YZ34Xyep84TAIU#scrollTo=51_zDnUEVpWE).
+### [Visit Colab!](https://colab.research.google.com/drive/1obkQKQIa8DyL7YVF54YZ34Xyep84TAIU#scrollTo=51_zDnUEVpWE).
 
 ![Esta es una imagen](IMAGEN/Colabsuma.png).
 
