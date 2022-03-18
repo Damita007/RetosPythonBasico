@@ -12,6 +12,6 @@ A continuación se muestran los resultados de los diversos retos de las clases d
 
 | Nivel        | Descripción                          | Ubicación                  |
 |--------------|:------------------------------------:|:--------------------------:|
-|*Básico*      |**Suma de 2 números enteros**         |    [Ir](RetosPythonBasico/Suma.md)|
-|*Básico*      |**Suma de los elementos de un array** |     Ir                     |
+|*Básico*      |**Suma de 2 números enteros**         |    [Ir](https://github.com/Damita007/RetosPythonBasico/blob/main/Suma.md)|
+|*Básico*      |**Suma de los elementos de un array** |    [Ir](https://github.com/Damita007/RetosPythonBasico/blob/main/Suma_array.md)|()                     |
 |*Intermedio*  |**Muestrame un animal!**              |     Ir                     |
